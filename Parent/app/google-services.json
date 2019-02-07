@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "155712342136",
+    "firebase_url": "https://chatproject-bb6e6.firebaseio.com",
+    "project_id": "chatproject-bb6e6",
+    "storage_bucket": "chatproject-bb6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155712342136:android:1ebbd7a4c7ede663",
+        "android_client_info": {
+          "package_name": "com.example.psyyf2.dissertation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155712342136-ijbbrpcs2ftm1grleaqc7cer6ep61bib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psyyf2.dissertation",
+            "certificate_hash": "2c91e556da90423bbc624ca6a138bdb5d68cbaf7"
+          }
+        },
+        {
+          "client_id": "155712342136-6b6cbbdjj1kvf5ar9sj5jp2toesvn5e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmaR6K4slyH7994382uETS0xJkxqXBVLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155712342136-6b6cbbdjj1kvf5ar9sj5jp2toesvn5e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155712342136:android:72087d85f5b335ed",
+        "android_client_info": {
+          "package_name": "com.example.psyyf2.parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155712342136-h7e4cbfkkhctvseblpa1g06p9tvnhdbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psyyf2.parent",
+            "certificate_hash": "2c91e556da90423bbc624ca6a138bdb5d68cbaf7"
+          }
+        },
+        {
+          "client_id": "155712342136-6b6cbbdjj1kvf5ar9sj5jp2toesvn5e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmaR6K4slyH7994382uETS0xJkxqXBVLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155712342136-6b6cbbdjj1kvf5ar9sj5jp2toesvn5e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155712342136:android:22a71290ba83068f",
+        "android_client_info": {
+          "package_name": "com.example.psyyf2.tool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155712342136-6b6cbbdjj1kvf5ar9sj5jp2toesvn5e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmaR6K4slyH7994382uETS0xJkxqXBVLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

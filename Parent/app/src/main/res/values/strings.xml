@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Parent</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="reg">reg</string>
+    <string name="log">log</string>
+    <string name="show_password">show_password</string>
+    <string name="student_id">Student ID:</string>
+    <string name="student_grade">Student Grade:</string>
+    <string name="release">Not release</string>
+
+</resources>
