@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.psyyf2.dissertation">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name=".MyProvider"
+            android:authorities="com.example.psyyf2.dissertation.MyProvider"
+            android:exported="true"
+            android:multiprocess="true" />
+
+        <activity
+            android:name=".activity.BaseActivity"
+            android:label="@string/title_activity_base"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activity.HomeworkEdit" />
+        <activity android:name=".activity.GradeDetail" />
+        <activity android:name=".activity.CreateGrade" />
+        <activity android:name=".activity.MangeGroup" />
+        <activity android:name=".activity.HomeworkStatu" />
+        <activity android:name=".activity.StudentList" />
+        <activity android:name=".activity.StudentDetail" />
+        <activity android:name=".activity.WelcomePage" />
+        <activity
+            android:name=".activity.GradeAnalysis"
+            android:theme="@style/PopupMenuStyle" />
+        <activity android:name=".activity.ChatPage" />
+        <activity android:name=".activity.AccountPage"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/math"
+            android:title="Math"/>
+        <item
+            android:id="@+id/english"
+            android:title="English"/>
+        <item
+            android:id="@+id/computer"
+            android:title="Computer"/>
+        <item
+            android:id="@+id/history"
+            android:title="History"/>
+
+        <item
+            android:id="@+id/chemistry"
+            android:title="Chemistry"/>
+
+        <item
+            android:id="@+id/art"
+            android:title="Art"/>
+    </group>
+</menu>

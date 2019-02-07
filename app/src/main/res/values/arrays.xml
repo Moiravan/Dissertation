@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Subject">
+        <item>Math</item>
+        <item>English</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+    </string-array>
+
+    <string-array name="Class">
+        <item>class A</item>
+        <item>class B</item>
+        <item>class C</item>
+        <item>class D</item>
+    </string-array>
+</resources>

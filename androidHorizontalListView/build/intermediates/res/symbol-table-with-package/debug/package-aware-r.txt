@@ -1,0 +1,7 @@
+com.meetme.android.horizontallistview
+int attr dividerWidth 0x7f040001
+int[] styleable HorizontalListView { 0x01010129, 0x010100e0, 0x010103a5, 0x7f040001 }
+int styleable HorizontalListView_android_divider 0
+int styleable HorizontalListView_android_fadingEdgeLength 1
+int styleable HorizontalListView_android_requiresFadingEdge 2
+int styleable HorizontalListView_dividerWidth 3
